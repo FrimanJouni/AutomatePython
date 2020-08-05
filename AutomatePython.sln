@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C1_Tervemaailma", "PythonApplication1\C1_Tervemaailma.pyproj", "{4CC1A5F9-E75A-4E28-AE1A-08D6FFDBDC2A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C2_ehtolauseet", "PythonApplication2C2_Flowcontrol\C2_ehtolauseet.pyproj", "{4FBF9E73-CE24-4F32-807D-3AA084E1898F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C2_whilelooppi", "C3_looppi\C2_whilelooppi.pyproj", "{B36F2C66-E5F6-40E1-A9EC-12821826818A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C2_forlooppi", "C2_forlooppi\C2_forlooppi.pyproj", "{29EAC61D-4E22-41C9-82C2-F7DCE0AB5D0F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C2_moduulit", "C2_moduulit\C2_moduulit.pyproj", "{7A688806-C7BC-45D1-9001-CF7C4051D030}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C2_numeronarvaus", "C2_numeronarvaus\C2_numeronarvaus.pyproj", "{C39EF62E-CD70-420A-90B8-81960218FF15}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C3_funktio8pallo", "C3_funktio8pallo\C3_funktio8pallo.pyproj", "{79166C5C-DDC7-4B15-BCA0-065DDAB8BDE0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C3_globaalitmuuttujat", "C3_globaalitmuuttujat\C3_globaalitmuuttujat.pyproj", "{DA49150E-EF29-4946-ABAA-08DAC119AEC6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C3_TryExcept_Errorhandling", "C3_TryExcept_Errorhandling\C3_TryExcept_Errorhandling.pyproj", "{0B0A1EB7-645F-43A0-AB8D-50B8B9B22BD3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C3_asteriskiAnimaatio", "C3_asteriskiAnimaatio\C3_asteriskiAnimaatio.pyproj", "{A955E89F-7854-45FB-805D-A5CE5CAD149D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C3_CollatzSekvenssi", "C3_CollatzSekvenssi\C3_CollatzSekvenssi.pyproj", "{8E01EF01-9ADA-4827-B863-053FA7BCC6D0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C4_listaKissat", "C4_listaKissat\C4_listaKissat.pyproj", "{C2E8B2F7-51B4-4ACE-B1B0-EBF861276CA5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C4_ConwayListat", "C4_ConwayListat\C4_ConwayListat.pyproj", "{9A1F8C32-8955-46E5-8CBA-80F69809EADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC1A5F9-E75A-4E28-AE1A-08D6FFDBDC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC1A5F9-E75A-4E28-AE1A-08D6FFDBDC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBF9E73-CE24-4F32-807D-3AA084E1898F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBF9E73-CE24-4F32-807D-3AA084E1898F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36F2C66-E5F6-40E1-A9EC-12821826818A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36F2C66-E5F6-40E1-A9EC-12821826818A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EAC61D-4E22-41C9-82C2-F7DCE0AB5D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EAC61D-4E22-41C9-82C2-F7DCE0AB5D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A688806-C7BC-45D1-9001-CF7C4051D030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A688806-C7BC-45D1-9001-CF7C4051D030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39EF62E-CD70-420A-90B8-81960218FF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39EF62E-CD70-420A-90B8-81960218FF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79166C5C-DDC7-4B15-BCA0-065DDAB8BDE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79166C5C-DDC7-4B15-BCA0-065DDAB8BDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA49150E-EF29-4946-ABAA-08DAC119AEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA49150E-EF29-4946-ABAA-08DAC119AEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0A1EB7-645F-43A0-AB8D-50B8B9B22BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0A1EB7-645F-43A0-AB8D-50B8B9B22BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A955E89F-7854-45FB-805D-A5CE5CAD149D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A955E89F-7854-45FB-805D-A5CE5CAD149D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E01EF01-9ADA-4827-B863-053FA7BCC6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E01EF01-9ADA-4827-B863-053FA7BCC6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E8B2F7-51B4-4ACE-B1B0-EBF861276CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E8B2F7-51B4-4ACE-B1B0-EBF861276CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1F8C32-8955-46E5-8CBA-80F69809EADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1F8C32-8955-46E5-8CBA-80F69809EADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1098A41-E522-4B5D-BEBF-A371094DA319}
+	EndGlobalSection
+EndGlobal
